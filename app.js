@@ -7,9 +7,14 @@
       <div class="project-overline"><span>01 / SELECTED PROJECT</span><span>EMPLOYEE SELF-SERVICE</span></div>
       <div class="crm-gallery">
         <figure>
-          <div class="crm-image-window"><img id="ess-preview" src="ess-place-of-beauty.webp" alt="Place Of Beauty Employee Self-Service homepage with a modern pink and purple workspace interface" loading="lazy" width="900" height="506"></div>
+          <div class="crm-image-window"><img id="ess-preview" src="ESS1.png" alt="Place Of Beauty ESS home page" loading="lazy" width="1366" height="768"></div>
           <figcaption>01 / Home — modern employee self-service landing workspace.</figcaption>
         </figure>
+        <div class="crm-views" aria-label="Place Of Beauty ESS screenshots">
+          <button type="button" class="crm-view selected" data-image="ESS1.png" data-caption="01 / Home — modern employee self-service landing workspace." data-alt="Place Of Beauty ESS home page" aria-pressed="true" aria-controls="ess-preview">Home</button>
+          <button type="button" class="crm-view" data-image="ESS2.png" data-caption="02 / Dashboard — employee workspace with attendance and quick actions." data-alt="Place Of Beauty ESS employee dashboard" aria-pressed="false" aria-controls="ess-preview">Dashboard</button>
+          <button type="button" class="crm-view" data-image="ESS3.png" data-caption="03 / About — overview of the employee self-service platform." data-alt="Place Of Beauty ESS about page" aria-pressed="false" aria-controls="ess-preview">About</button>
+        </div>
         <p class="crm-announcement" role="status" aria-live="polite"></p>
       </div>
       <div class="crm-heading"><div><span class="eyebrow">WEB APPLICATION</span><h3>Place Of Beauty ESS</h3></div></div>
